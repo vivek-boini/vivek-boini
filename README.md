@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">I am pursuing a Bachelor of Engineering (BE) in Information Technology at Chaitanya Bharathi Institute of Technology,Hyderabad exploring technologies and building impactful projects.</h3>
+<h3 align="center">I am pursuing Bachelor of Engineering (BE) in Information Technology at Chaitanya Bharathi Institute of Technology, Hyderabad exploring technologies and building impactful projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
