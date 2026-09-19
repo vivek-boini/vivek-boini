@@ -15,11 +15,13 @@ Passionate about building scalable applications, solving algorithmic problems, a
 - 💻 Strong in **Data Structures & Algorithms**
 - ⚡ Interested in **Backend Development, Distributed Systems & Real-Time Applications**
 - 🌱 Currently exploring **System Design, Low-Latency Architectures & AI-integrated Applications**
-- 🧠 Solved **260+ problems** on LeetCode
-- 🏆 LeetCode Contest Rating: **1500+**
+- 🧠 Solved **380+ problems** on LeetCode
+- 🏆 LeetCode Contest Rating: **1600+**
 - 🛠️ Love building impactful full-stack projects
 
 ---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vivek-boini&show_icons=true&rank_icon=percentile)](https://github.com/vivek-boini)
 
 ## 🌐 Connect With Me
 
